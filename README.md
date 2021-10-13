@@ -1,5 +1,3 @@
-<html>
-<body>
 <h2>Ursus arctos (212318) </h2>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Brown_Bear_us_fish_2.jpg/440px-Brown_Bear_us_fish_2.jpg" alt="Karu">
 <p>
@@ -22,5 +20,3 @@ Kael pöördub hästi.
 </p>
 Karude kohta saad rohkem lugeda <a href="https://taltech.ee/">siit</a>.
 
-</body>
-</html>
